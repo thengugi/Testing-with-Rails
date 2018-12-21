@@ -7,4 +7,13 @@ class StaticPagesController < ApplicationController
   #Action for help page
   def help
   end
+
+  #About Page
+  def about
+  end
+
+  #contact page
+  def contact
+  	
+  end
 end
